@@ -1,1 +1,1 @@
-# Binary-Classification-with-Artificial-Neural-Networks-using-Keras
+# Multi-Classification-with-Artificial-Neural-Networks-using-Keras
